@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "727287547500",
+    "firebase_url": "https://flare-chat-98a28-default-rtdb.firebaseio.com",
+    "project_id": "flare-chat-98a28",
+    "storage_bucket": "flare-chat-98a28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727287547500:android:9f56c9afde3d5121383a49",
+        "android_client_info": {
+          "package_name": "com.example.flare_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727287547500-1f7ekbgdjljftmp5bcc8sb7isj910vfn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flare_chat_app",
+            "certificate_hash": "62a0fa84d22b3f378684a767484a848030c249d3"
+          }
+        },
+        {
+          "client_id": "727287547500-4q0f6sbakriu6aj6rvpoutjcs2s7rdt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYGKobpsKRH_XUVTjyVYIvbj_C-cJeDBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727287547500-4q0f6sbakriu6aj6rvpoutjcs2s7rdt3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "727287547500-59mtp5p7in1jkmva6p95f06m0m584sqf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
